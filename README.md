@@ -14,8 +14,9 @@
 4). Hasil akhirnya :
     ![image](https://github.com/user-attachments/assets/2ab5dc86-7c3b-4201-8f0c-02b86c14ddef)
 
-    Program kalkulator ini merupakan aplikasi berbasis teks yang memungkinkan pengguna melakukan operasi aritmatika dasar, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Dengan struktur berbasis fungsi, program ini menjadi lebih modular dan mudah dipahami, sehingga cocok digunakan oleh pemula yang ingin belajar pemrograman Python. Selain itu, adanya fitur validasi input dan penanganan kesalahan menjadikan program lebih andal, terutama dalam mencegah kesalahan pembagian dengan nol. Program ini juga dapat dikembangkan lebih lanjut dengan menambahkan fitur tambahan atau antarmuka yang lebih interaktif, menjadikannya landasan yang baik untuk eksplorasi lebih lanjut dalam dunia pemrograman.
-
-
-
-
+Program kalkulator ini merupakan aplikasi berbasis teks yang memungkinkan pengguna melakukan operasi aritmatika dasar,yaitu 
+penjumlahan, pengurangan, perkalian, dan pembagian. Dengan struktur berbasis fungsi, program ini menjadi lebih modular dan 
+mudah dipahami, sehingga cocok digunakan oleh pemula yang ingin belajar pemrograman Python. Selain itu, adanya fitur validasi 
+input dan penanganan kesalahan menjadikan program lebih andal, terutama dalam mencegah kesalahan pembagian dengan nol. Program 
+ini juga dapat dikembangkan lebih lanjut dengan menambahkan fitur tambahan atau antarmuka yang lebih interaktif, menjadikannya 
+landasan yang baik untuk eksplorasi lebih lanjut dalam dunia pemrograman.
